@@ -104,4 +104,4 @@ theme: yun
 deploy:
   type: 'git'
   repo: https://github.com/GiriDiwa98/Catatan-Biasa
-  brances: master
+  brances: gh-pages
