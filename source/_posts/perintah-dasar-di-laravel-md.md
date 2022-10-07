@@ -1,7 +1,7 @@
 ---
 layout: posts
-title: perintah-dasar-di-laravel.md
-date: 2022-10-07 23:32:00
+title: perintah-dasar-di-laravel
+date: 2022-10-08 23:32:00
 tags:
 ---
 
