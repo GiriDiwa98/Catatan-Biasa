@@ -7,19 +7,17 @@ tags:
 
 # Perintah Dasar Di Laravel
 
-Sesi kali ini saya akan membahas mengenai perintah dasar di salah satu framework PHP yaitu laravel, laravel sendiri merupakan sebuah framework yang powerfull dan mudah untuk
-di gunakan, oleh karena itu tidak jarang para pengguna baik dari kalangan mereka yang baru belajar atau bahkan sekelas perusahaan pun menggunakan framework yang satu ini.
+Sesi kali ini saya akan membahas mengenai perintah dasar di salah satu framework PHP yaitu laravel, laravel sendiri merupakan sebuah framework yang powerfull dan mudah untuk di gunakan, oleh karena itu tidak jarang para pengguna baik dari kalangan mereka yang baru belajar atau bahkan sekelas perusahaan pun menggunakan framework yang satu ini.
 
 Laravel kini sudah mencapai ke versi 9x yang mana akan ada syntaxsis baru  di dalamnya, walau sudah naik versi tetapi perintah dasar untuk menjalankan laravel
 Sesi kali ini saya akan membahas mengenai perintah dasar di salah satu framework PHP yaitu laravel, laravel sendiri merupakan sebuah framework yang powerfull dan mudah untuk di gunakan, oleh karena itu tidak jarang para pengguna baik dari kalangan mereka yang baru belajar atau bahkan sekelas perusahaan pun menggunakan framework yang satu ini.
 
 Laravel kini sudah mencapai ke versi 9x yang mana akan ada syntaxsis baru di dalamnya, walau sudah naik versi tetapi perintah dasar untuk menjalankan laravel
->>>>>>> 70b3887d99f53bbf34c74073e5df65f4aa8abd7e:source/_posts/perintah-dasar-di-laravel.md
 ini masihlah sama seperti versi-versi sebelumnya.
 
 Untuk itu mari kita bahas perintah dasar apa saja sih yang ada di dalam laravel ini, sebelum itu pastikan kalian sudah mengintsall laravel ini di komputer kalian masing-masing, jika belum kalian bisa masuk ke laman resmi web laravel.
 
-[!Laravel]('https://laravel.com')
+https://laravel.com
 
 Jika sudah menginstallnya kalian bisa lanjutkan ke step pembahasan selanjutnya.
 
