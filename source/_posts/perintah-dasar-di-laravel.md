@@ -9,9 +9,6 @@ tags:
 
 Sesi kali ini saya akan membahas mengenai perintah dasar di salah satu framework PHP yaitu laravel, laravel sendiri merupakan sebuah framework yang powerfull dan mudah untuk di gunakan, oleh karena itu tidak jarang para pengguna baik dari kalangan mereka yang baru belajar atau bahkan sekelas perusahaan pun menggunakan framework yang satu ini.
 
-Laravel kini sudah mencapai ke versi 9x yang mana akan ada syntaxsis baru  di dalamnya, walau sudah naik versi tetapi perintah dasar untuk menjalankan laravel
-Sesi kali ini saya akan membahas mengenai perintah dasar di salah satu framework PHP yaitu laravel, laravel sendiri merupakan sebuah framework yang powerfull dan mudah untuk di gunakan, oleh karena itu tidak jarang para pengguna baik dari kalangan mereka yang baru belajar atau bahkan sekelas perusahaan pun menggunakan framework yang satu ini.
-
 Laravel kini sudah mencapai ke versi 9x yang mana akan ada syntaxsis baru di dalamnya, walau sudah naik versi tetapi perintah dasar untuk menjalankan laravel
 ini masihlah sama seperti versi-versi sebelumnya.
 
